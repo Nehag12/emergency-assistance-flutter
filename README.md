@@ -62,12 +62,12 @@ shared_preferences
 ---
 
 ## Emergency Contacts Screen
-![Emergency Contacts](screenshots/emergency contacts.png)
+![Emergency Contacts](screenshots/emergency_contacts.png)
 
 ---
 
 ## Add Emergency Contact
-![Add Emergency Contact](screenshots/add emergency.png)
+![Add Emergency Contact](screenshots/add_emergency.png)
 
 ---
 
